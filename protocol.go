@@ -8,7 +8,7 @@ package redisproxy
 
 import (
 	"bytes"
-	"chosen0ne.com/goutils"
+	"github.com/chosen0ne/goutils"
 	"io"
 	"strconv"
 )
